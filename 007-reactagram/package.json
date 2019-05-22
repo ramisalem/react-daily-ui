@@ -1,4 +1,5 @@
 {
+   "author": "rami",
   "name": "demo",
   "version": "1.0.0",
   "description": "this is just demo ",
@@ -6,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rami",
+ 
   "license": "ISC",
   "dependencies": {
     "underscore": "^1.9.1"
